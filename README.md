@@ -1,5 +1,4 @@
 # Credit-Card-Fraud-Detection-Project
-This project will be implemented as a part of my current coursework - IDS 702 Modeling and Representation of Data
 
 ## Summary
 
